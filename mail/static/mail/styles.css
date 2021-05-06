@@ -1,0 +1,77 @@
+
+textarea {
+    min-height: 400px;
+    
+}
+.emails-block{
+    border:1px solid rgb(151, 169, 175);
+    border-radius: 5px;
+    padding:20px;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+    
+}
+.read{
+    background-color: lightgray;
+    
+    border-radius: 5px;
+    padding:20px;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+
+}
+
+.emails-recipients{
+   border-bottom: 1px solid rgb(151, 169, 175);
+    padding:10px;
+
+}
+.email-date{
+    font-size: 12px;
+    margin-left: 70%;
+    
+}
+.archive-toggle{
+    background-color: lightslategray;
+    border-radius: 7px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    display: inline;
+    border: none;
+}
+
+.archive-toggle:hover{
+    background-color: rgb(167, 181, 196);
+    border:1px solid rgb(103, 115, 151);
+}
+
+
+.main{
+    background-color: lightgray;
+    border-radius: 5px;
+    padding:20px;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+    border-bottom: 1px solid rgb(151, 169, 175);;
+}
+.info-div{
+    padding:10px;
+    border-bottom: 1px solid rgb(151, 169, 175);
+}
+.info-div-date{
+    padding:10px;
+    margin-left: 80%;
+    font-size: 12px;
+}
+.reply{
+    background-color: rgb(103, 115, 151);
+    border-radius: 7px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    display: inline;
+    border: none;
+}
+.reply:hover{
+    background-color: rgb(167, 181, 196);
+    border:1px solid rgb(103, 115, 151);
+}
